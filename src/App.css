@@ -1,0 +1,56 @@
+.App {
+  background-color: #ececee;
+  display: flex;
+  justify-content: center;
+}
+
+.hungry {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.img-thumb {
+  width: 400px;
+  height: 315px;
+  align-items: center;
+  /* display: inline-block; */
+}
+
+.instructions {
+  font-size: 18px;
+  padding: 20px;
+  width: 500px;
+  display: inline-block;
+}
+
+.ingredient {
+  width: 300px;
+  align-items: center;
+  display: inline-block;
+}
+
+ul {
+  list-style: none;
+  font-size: 16px;
+}
+
+.img {
+  vertical-align: middle;
+}
+
+.get-meal {
+  height: 30px;
+  width: 100px;
+  background-color: #09d3ac;
+  border: none;
+  border-radius: 5px;
+}
+
+.video-resource {
+  display: inline-block;
+}
+
+.guide {
+  display: flex;
+  justify-content: center;
+}
